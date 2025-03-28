@@ -109,7 +109,8 @@ I have nothing to do with:
 ## Smartphone Brands
 ![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
-![Fly](https://github.com/user-attachments/assets/cbb05f12-4ad0-4662-9391-5d15294172f7)
+![Fly](https://github.com/user-attachments/assets/ec690913-311e-4efc-8284-9bf78989c5df)
+
 
 ## Other
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
