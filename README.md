@@ -118,5 +118,5 @@ I have nothing to do with:
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![PyPi](https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-// Explorer, Minecraft command blocks and datapacks
+![Explorer](https://github.com/user-attachments/assets/dcaf604a-04d1-4c35-9030-4232026163b8)
+![Minecraft Datapack](https://github.com/user-attachments/assets/2404c666-ead5-438e-a26c-4e8878a5135b)
