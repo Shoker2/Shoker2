@@ -38,7 +38,7 @@ I have nothing to do with:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## ORM
-// sqlalchemy
+![SQLAlchemy](https://github.com/user-attachments/assets/23182b40-a0c2-4250-b04f-a109e7bb9026)
 
 ## Servers
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -75,7 +75,7 @@ I have nothing to do with:
 ## Browsers
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-// Chrome, Firefox
+![Chrome](https://github.com/user-attachments/assets/ae0ae9fe-f735-4fa6-bc31-eb9beb215191)
 
 ## Cloud Storage
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
@@ -91,7 +91,7 @@ I have nothing to do with:
 
 ## Search Engines
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-// Yandex
+![Yandex](https://github.com/user-attachments/assets/d13e4bd8-4578-47d4-8660-44c44fedfe1f)
 
 ## Social
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -109,7 +109,7 @@ I have nothing to do with:
 ## Smartphone Brands
 ![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
-// Fly
+![Fly](https://github.com/user-attachments/assets/cbb05f12-4ad0-4662-9391-5d15294172f7)
 
 ## Other
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
