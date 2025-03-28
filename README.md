@@ -1,13 +1,12 @@
 # 💫 About Me
-
 I have nothing to do with:
-  - [DaniiL10062005](https://github.com/DaniiL10062005)
-  - [Bellou1337](https://github.com/Bellou1337)
-  - [myawur](https://github.com/myawur)
-  - [alindaskmdos](https://github.com/alindaskmdos)
+  - [<img src="https://avatars.githubusercontent.com/u/109900504?v=)" alt="drawing" width="20"/> DaniiL10062005](https://github.com/DaniiL10062005)
+  - [<img src="https://avatars.githubusercontent.com/u/165516861?v=)" alt="drawing" width="20"/> Bellou1337](https://github.com/Bellou1337)
+  - [<img src="https://avatars.githubusercontent.com/u/144674317?v=)" alt="drawing" width="20"/> myawur](https://github.com/myawur)
+  - [<img src="https://avatars.githubusercontent.com/u/85799128?v=)" alt="drawing" width="20"/> alindaskmdos](https://github.com/alindaskmdos)
 
 
-# 🌐 Socials:
+# 🌐 Contacts:
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:themallisteri@mail.ru) 
 
